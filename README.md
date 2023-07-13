@@ -2,7 +2,7 @@
 
 The following is the list of the attributes implemented in this program. Run the stript using Matlab (Desktop/Online). You may select the number that represents the curvature attribute when prompted to do so.
 
-## 1 = Mean Curvature
+### Mean Curvature
 ## 2 = Gaussian Curvature
 ## 3 = Minimum Curvature
 ## 4 = Maximum Curvature
