@@ -16,3 +16,15 @@ The following is the list of the attributes implemented in this program. Run the
 
 
 This program was written to calculate 11 curvature attributes defined by (Robert, 2001).
+
+# References
+
+@article{roberts2001curvature,
+  title={Curvature attributes and their application to 3 D interpreted horizons},
+  author={Roberts, Andy},
+  journal={First break},
+  volume={19},
+  number={2},
+  pages={85--100},
+  year={2001}
+}
