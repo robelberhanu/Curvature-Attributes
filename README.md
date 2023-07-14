@@ -19,12 +19,5 @@ This program was written to calculate 11 curvature attributes defined by (Robert
 
 # References
 
-@article{roberts2001curvature,
-  title={Curvature attributes and their application to 3 D interpreted horizons},
-  author={Roberts, Andy},
-  journal={First break},
-  volume={19},
-  number={2},
-  pages={85--100},
-  year={2001}
-}
+[Roberts 2001] Andy Roberts. Curvature attributes and their application to 3 d inter-
+preted horizons. pages 85–100, 2001.
